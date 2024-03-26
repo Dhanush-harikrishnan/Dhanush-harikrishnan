@@ -1,64 +1,27 @@
-<!-- This Dhanush-harikrishnan's Repository is most important and valuable repository because its `README.md` (this file) appears as Github profile. -->
+![logo](https://github.com/Dhanush-harikrishnan/Dhanush-harikrishnan/blob/main/mm.png)
+<h1 align="center">Hi 👋, I'm Dhanush Hari Krishnan</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-# Hi, Myself <a href="https://dhanush-harikrishnan.github.io" target="_blank">Dhanush Harikrishnan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanush-harikrishnan&label=Profile%20views&color=0e75b6&style=flat" alt="dhanush-harikrishnan" /> </p>
 
-## I'm a Full-Stack Web Developer, Designer, and Life-Long Learner!
+- 🌱 I’m currently learning **PostgreSQL**
 
-<div align="left">
-<a href="https://dhanush-harikrishnan.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dhanush-harikrishnan/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/Dhanush-harikrishnan/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/Dhanush-harikrishnan"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</div>
+- 👨‍💻 All of my projects are available at github
 
-<br/>
+- 📄 Know about my experiences I have experience in MERN stack react and little about web3.0
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dhanush-harikrishnan.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/dhanush-harikrishnan?label=Github%20Connection&style=flat)
+- ⚡ Fun fact **I do home workout**
 
-<br/>
-
-### What I'm focusing on 👨‍💻
-
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🌱 Currently learning Java programming 😎
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 goals: Make projects and contribute to Open Source
-- ⚡ Fun fact: I love to take photos and make videos
-- 🔭 I just launched my portfolio: **[https://dhanush-harikrishnan.github.io/](https://dhanush-harikrishnan.github.io)**
-- 💼 See my experience over the years: **[Resume](https://drive.google.com/file/d/1vIW8QutYvTxiIh-wi9mME4m4ibYGYNrf/view?usp=sharing)**
-
-  <br />
-
-### Familiar Tech Stack:
-
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/dhanush-harikrishnan/dhanush-harikrishnan/blob/master/coding.gif?raw=true" />
-
-<!-- language -->
-
-[![](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)]()
-
-<br/>
-
-### Used Tools:
-
-[![](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)]()
-
-
-<br />
-
-### Interests:
-
-- Explore new Tech 💻
-- Travel & Ride 🌎
-
-
-<!-- ### My GitHub Stats: -->
-<p>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-harikrishnan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dhanush-harikrishnan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/dhanush1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhanush1505" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@dhanushhari15051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dhanushhari15051" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanush-harikrishnan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="GitHub contribution graph">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanush-harikrishnan&show_icons=true&locale=en&layout=compact" alt="dhanush-harikrishnan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanush-harikrishnan&show_icons=true&locale=en" alt="dhanush-harikrishnan" /></p>
