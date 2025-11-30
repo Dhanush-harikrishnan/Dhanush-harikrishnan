@@ -1,6 +1,6 @@
 # Dhanush Harikrishnan
 
-> **Turning algorithms into applications** — Full-stack engineer architecting scalable systems from concept to production
+> **Turning algorithms into applications** — Full-stack engineer architecting scalable systems from concept to real world application
 
 ---
 
@@ -8,7 +8,7 @@
 
 I build software that matters. Not just code—I design complete solutions: intuitive frontends paired with robust backends, from e-commerce platforms to blockchain-verified systems. I practice intentional engineering: clean architecture, predictable code, and systems that scale.
 
-**Current focus:** Mastering system design & DSA patterns while delivering production-grade full-stack projects.
+**Current focus:** Mastering system design & DSA patterns while delivering full-stack projects.
 
 ---
 
@@ -63,6 +63,6 @@ I build software that matters. Not just code—I design complete solutions: intu
 
 ## 🎲 Let's Connect
 
-Always interested in **full-stack projects**, **system design discussions**, and **placement opportunities** at Accenture, TCS, Infosys, Cognizant, or similar firms.
+Always interested in **full-stack projects**, **system design discussions**.
 
 📧 Open for collaboration, contracts, and conversations.
